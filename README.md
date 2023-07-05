@@ -1,1 +1,2 @@
 # smartphone_data
+I collect mobile data from the Smartprix website using web scraping techniques and ensure its cleanliness. This project involves gathering information about mobile devices by automatically extracting data from the Smartprix website. After collecting the data, I carefully clean it up to make sure it's accurate and consistent. This process allows us to have reliable and organized mobile data for further analysis or any other purpose.
